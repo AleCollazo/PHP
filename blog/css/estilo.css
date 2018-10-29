@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-oct-2018, 11:51:23
+    Author     : alex
+*/
+
+#titulo{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    color: floralwhite;
+    background-color: pink;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.lista{
+    text-decoration: none;
+    color: floralwhite;
+}
+
+li{
+    display: inline;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 2px;
+}
+li:hover{
+    background-color: plum;
+}
+
+ul{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    padding-left: 0px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#ultEntrada{
+    border-color: pink;
+    border-style: dotted;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+#comentario{
+    border-color: pink;
+    border-style: dotted;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+#aComentarios{
+    text-decoration: none;
+    text-align: right;
+}
+
+#c{
+    text-align: right;
+    margin: 0px;
+    background-color: pink;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: floralwhite;
+    position: relative;
+    top: 50px;
+}
